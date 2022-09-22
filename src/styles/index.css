@@ -10,3 +10,67 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.caja1{
+    height: 100px;
+    width: 50px;
+    background-color: black;
+    margin-left: 50px;
+    margin:0 auto;
+}
+
+.caja2{
+    height: 475px;
+    width: 200px;
+    background-color: black;
+    margin:0 auto;
+    border-radius: 40px;
+}
+
+.verde{
+    height:125px ;
+    width: 125px;
+    background-color: green;
+    margin-top: 20px;
+    border-radius: 100%;
+    margin-left: 35px;
+    
+}
+
+.amarillo{
+    height:125px ;
+    width: 125px;
+    background-color: yellow;
+    margin-top: 20px;
+    border-radius: 100%;
+    margin-left: 35px;
+}
+
+.rojo{
+    height:125px ;
+    width: 125px;
+    background-color: red;
+    margin-top: 20px;
+    border-radius: 100%;
+    margin-left: 35px;
+}
+
+.encendida {
+    box-shadow: 0 0 100px white;
+}
+
+.morado{
+    height:125px ;
+    width: 125px;
+    background-color: purple;
+    margin-top: 20px;
+    border-radius: 100%;
+    margin-left: 35px;
+}
+
+.caja3{
+    height: 620px;
+    width: 200px;
+    background-color: black;
+    margin:0 auto;
+    border-radius: 40px;
+}
